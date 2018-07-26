@@ -1,0 +1,148 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+#principal{
+font-size:20px;
+color:blue
+
+}
+
+#principal1{
+font-size:20px;
+color:blue
+
+}
+
+h1 {
+font: bold 20px verdana, sans-serif;
+} 
+h2 {
+font: bold 14px verdana, sans-serif;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption,
+hgroup{
+display: block;
+}
+
+body {
+text-align: center;
+
+}
+
+#agrupar {
+width: 960px;
+margin: 10px auto;
+text-align: left;
+border-radius: 10px;
+}
+
+#cabecera {
+background: #FFFBB9;
+border: 1px solid #999999;
+padding: 20px;
+box-shadow: 5px 5px 0 #ccc;
+border-radius: 10px;
+background: linear-gradient( #01042E , #206C95);
+}
+
+#menu {
+background: #C79810;
+padding: 5px 15px;
+border-radius: 10px;
+background: linear-gradient(#F7EC72 , #B8860B );
+position: relative;
+
+} 
+
+
+#menu li {
+display: inline-block;
+list-style: none;
+padding: 5px;
+font: bold 14px verdana, sans-serif;
+
+}
+
+
+#seccion {
+float: right;
+width: 630px;
+margin: 3px;
+
+border-radius: 10px;
+
+} 
+#columna {
+float: left;
+width: 240px;
+margin: 20px 0px;
+padding: 20px;
+background: #CCCCCC;
+background: linear-gradient(  #98FB98  ,  #9ACD32 );
+border-radius: 10px;
+}
+
+#columna2 {
+float: left;
+width: 240px;
+margin: 20px 0px;
+padding: 20px;
+background: #7AE6BC;
+border-radius: 10px;
+background: linear-gradient( #E0FFFF  ,  #4682B4  );
+}
+
+#columna3 {
+float: left;
+width: 240px;
+margin: 50px 0px;
+padding: 20px;
+background: #7AE6BC;
+border-radius: 10px;
+background: linear-gradient( #E0FFFF  ,  #4682B4  );
+}
+
+#pie {
+clear: both;
+text-align: center;
+padding: 20px;
+border-top: 2px solid #999999;
+background: #CC99AA;
+box-shadow: 0px 0px 30px #00ffff;
+border-radius: 10px;
+background: radial-gradient( #F3E1F9  ,  #CD53F9 );
+}
+
+article {
+background: #FFFBCC;
+border: 1px solid #999999;
+padding: 50px;
+margin-bottom: 15px;
+border-radius: 10px;
+background: linear-gradient( #BCE1D7 , #588477);
+
+} 
+article footer {
+text-align: right;
+
+} 
+time {
+color: #999999;
+} 
+figcaption {
+font: italic 14px verdana, sans-serif;
+}
+
+div {
+width: 100px;
+margin: 20px;
+padding: 10px;
+border: 2px solid #111111;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+
